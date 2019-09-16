@@ -1,0 +1,15 @@
+{
+    "name": "zozlak/rdf-constants",
+    "description": "A set of commonly used RDF and XSD constants",
+    "authors": [
+        {
+            "name": "Mateusz Żółtak",
+            "email": "zozlak@zozlak.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zozlak\\": "src/zozlak"
+        }
+    }
+}
