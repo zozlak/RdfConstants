@@ -53,6 +53,9 @@ class RdfConstants {
     const RDFS_RANGE                    = 'http://www.w3.org/2000/01/rdf-schema#range';
     const RDFS_SUB_PROPERTY_OF          = 'http://www.w3.org/2000/01/rdf-schema#subPropertyOf';
     const OWL_ON_CLASS                  = 'http://www.w3.org/2002/07/owl#onClass';
+    const OWL_CLASS                     = 'http://www.w3.org/2002/07/owl#Class';
+    const OWL_DATATYPE_PROPERTY         = 'http://www.w3.org/2002/07/owl#DatatypeProperty';
+    const OWL_OBJECT_PROPERTY           = 'http://www.w3.org/2002/07/owl#ObjectProperty';
     const OWL_RESTRICTION               = 'http://www.w3.org/2002/07/owl#Restriction';
     const OWL_ON_PROPERTY               = 'http://www.w3.org/2002/07/owl#onProperty';
     const OWL_ON_DATA_RANGE             = 'http://www.w3.org/2002/07/owl#onDataRange';
