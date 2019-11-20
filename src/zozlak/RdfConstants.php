@@ -48,6 +48,11 @@ class RdfConstants {
     const XSD_ANY_URI                   = 'http://www.w3.org/2001/XMLSchema#anyURI';
     const XSD_QNAME                     = 'http://www.w3.org/2001/XMLSchema#QName';
     const XSD_NOTATION                  = 'http://www.w3.org/2001/XMLSchema#NOTATION';
+    const XSD_INTEGER                   = 'http://www.w3.org/2001/XMLSchema#integer';
+    const XSD_NEGATIVE_INTEGER          = 'http://www.w3.org/2001/XMLSchema#negativeInteger';
+    const XSD_NON_NEGATIVE_INTEGER      = 'http://www.w3.org/2001/XMLSchema#nonNegativeInteger';
+    const XSD_NON_POSITIVE_INTEGER      = 'http://www.w3.org/2001/XMLSchema#nonPositiveInteger';
+    const XSD_POSITIVE_INTEGER          = 'http://www.w3.org/2001/XMLSchema#positiveInteger';
     const RDFS_SUB_CLASS_OF             = 'http://www.w3.org/2000/01/rdf-schema#subClassOf';
     const RDFS_DOMAIN                   = 'http://www.w3.org/2000/01/rdf-schema#domain';
     const RDFS_RANGE                    = 'http://www.w3.org/2000/01/rdf-schema#range';
