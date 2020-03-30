@@ -34,6 +34,7 @@ namespace zozlak;
 class RdfConstants {
 
     const RDF_TYPE                      = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
+    const RDFS_COMMENT                  = 'http://www.w3.org/2000/01/rdf-schema#comment';
     const RDFS_DOMAIN                   = 'http://www.w3.org/2000/01/rdf-schema#domain';
     const RDFS_RANGE                    = 'http://www.w3.org/2000/01/rdf-schema#range';
     const RDFS_SUB_CLASS_OF             = 'http://www.w3.org/2000/01/rdf-schema#subClassOf';
@@ -51,6 +52,7 @@ class RdfConstants {
     const OWL_ON_PROPERTY               = 'http://www.w3.org/2002/07/owl#onProperty';
     const OWL_QUALIFIED_CARDINALITY     = 'http://www.w3.org/2002/07/owl#qualifiedCardinality';
     const OWL_RESTRICTION               = 'http://www.w3.org/2002/07/owl#Restriction';
+    const SKOS_ALT_LABEL                = 'http://www.w3.org/2004/02/skos/core#altLabel';
     const XSD_ANY_URI                   = 'http://www.w3.org/2001/XMLSchema#anyURI';
     const XSD_BASE64_BINARY             = 'http://www.w3.org/2001/XMLSchema#base64Binary';
     const XSD_BOOLEAN                   = 'http://www.w3.org/2001/XMLSchema#boolean';
