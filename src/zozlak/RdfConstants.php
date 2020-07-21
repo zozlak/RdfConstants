@@ -69,7 +69,7 @@ class RdfConstants {
     const OWL_ALL_DISJOINT_CLASSES           = 'http://www.w3.org/2002/07/owl#allDisjointClasses';
     const OWL_ALL_DISJOINT_PROPERTIES        = 'http://www.w3.org/2002/07/owl#allDisjointProperties';
     const OWL_ALL_VALUES_FROM                = 'http://www.w3.org/2002/07/owl#allValuesFrom';
-    const OWL_ANNOTATION_PROPERTY            = 'http://www.w3.org/2000/01/rdf-schema#AnnotationProperty';
+    const OWL_ANNOTATION_PROPERTY            = 'http://www.w3.org/2002/07/owl#AnnotationProperty';
     const OWL_ASSERTION_PROPERTY             = 'http://www.w3.org/2002/07/owl#assertionProperty';
     const OWL_ASSYMETRIC_PROPERTY            = 'http://www.w3.org/2002/07/owl#AssymetricProperty';
     const OWL_CARDINALITY                    = 'http://www.w3.org/2002/07/owl#cardinality';
