@@ -116,6 +116,7 @@ class RdfConstants {
     const OWL_SUB_PROPERTY_OF                = 'http://www.w3.org/2002/07/owl#subPropertyOf';
     const OWL_SYMMETRIC_PROPERTY             = 'http://www.w3.org/2002/07/owl#SymmetricProperty';
     const OWL_TARGET_INDIVIDUAL              = 'http://www.w3.org/2002/07/owl#targetIndividual';
+    const OWL_THING                          = 'http://www.w3.org/2002/07/owl#Thing';
     const OWL_TRANSITIVE_PROPERTY            = 'http://www.w3.org/2002/07/owl#TransitiveProperty';
     const OWL_UNION_OF                       = 'http://www.w3.org/2002/07/owl#unionOf';
     const OWL_WITH_RESTRICTIONS              = 'http://www.w3.org/2002/07/owl#withRestrictions';
