@@ -33,6 +33,15 @@ namespace zozlak;
  */
 class RdfConstants {
 
+    const NMSP_DC                            = 'http://purl.org/dc/elements/1.1/';
+    const NMSP_DCT                           = 'http://purl.org/dc/terms/';
+    const NMSP_FOAF                          = 'http://xmlns.com/foaf/0.1/';
+    const NMSP_OWL                           = 'http://www.w3.org/2002/07/owl#';
+    const NMSP_RDF                           = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#';
+    const NMSP_RDFS                          = 'http://www.w3.org/2000/01/rdf-schema#';
+    const NMSP_SKOS                          = 'http://www.w3.org/2004/02/skos/core#';
+    const NMSP_XML                           = 'http://www.w3.org/XML/1998/namespace';
+    const NMSP_XSD                           = 'http://www.w3.org/2001/XMLSchema#';
     const RDF_ALT                            = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt';
     const RDF_BAG                            = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag';
     const RDF_FIRST                          = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#first';
@@ -196,5 +205,4 @@ class RdfConstants {
     const XSD_UNSIGNED_INT                   = 'http://www.w3.org/2001/XMLSchema#unsignedInt';
     const XSD_UNSIGNED_LONG                  = 'http://www.w3.org/2001/XMLSchema#unsignedLong';
     const XSD_UNSIGNED_SHORT                 = 'http://www.w3.org/2001/XMLSchema#unsignedShort';
-
 }
