@@ -131,7 +131,7 @@ class RdfConstants {
     const OWL_WITH_RESTRICTIONS              = 'http://www.w3.org/2002/07/owl#withRestrictions';
     const SKOS_ALT_LABEL                     = 'http://www.w3.org/2004/02/skos/core#altLabel';
     const SKOS_BROADER                       = 'http://www.w3.org/2004/02/skos/core#broader';
-    const SKOS_COLLECTION                    = 'http://www.w3.org/2004/02/skos/core#collection';
+    const SKOS_COLLECTION                    = 'http://www.w3.org/2004/02/skos/core#Collection';
     const SKOS_CONCEPT                       = 'http://www.w3.org/2004/02/skos/core#Concept';
     const SKOS_CONCEPT_SCHEMA                = 'http://www.w3.org/2004/02/skos/core#ConceptScheme';
     const SKOS_BROAD_MATCH                   = 'http://www.w3.org/2004/02/skos/core#broadMatch';
